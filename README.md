@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Javi.
 
-<!--
-**JSulthoni/jsulthoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Full Stack MERN Developer
+- 🌏 I enjoy learning the internet. 
+- 🚀 Motto: Your branch is up to date with 'origin/main'.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- HTML
+- CSS
+- JavaScript
+- React
+- SASS
+- Node.js
+- MongoDB
+
+
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<span>🔭 LinkedIn: </span><a href="https://www.linkedin.com/in/jsulthoni/">Javier Sulthoni</a>
+<span>⚡ Instagram: </span><a href="https://www.instagram.com/jsulthoni/">jsulthoni</a>
+<span>📫 Email: </span><a href="mailto:sulthonijavier@gmail.com">sulthonijavier@gmail.com</a>
+</p>
