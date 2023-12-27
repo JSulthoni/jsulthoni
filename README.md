@@ -2,7 +2,7 @@
 
 
 - 🌱 Full Stack MERN Developer
-- 👨‍💻 Take a look at my portfolio: [jsulthoni.github.io](jsulthoni.github.io)
+- 👨‍💻 Take a look at my portfolio: [jsulthoni.github.io](https://jsulthoni.github.io)
 - 📄 Know about my experiences: [resume](https://github.com/JSulthoni/jsulthoni.github.io/blob/main/src/assets/Resume_Javier-Nauvel-Sulthoni.pdf)
 - 📫 You can reach me at: [sulthonijavier@gmail.com](mailto:sulthonijavier@gmail.com)
 - 🌏 I enjoy learning the internet.
