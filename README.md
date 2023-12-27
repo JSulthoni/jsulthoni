@@ -27,6 +27,6 @@
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiersulthoni" height="20" width="20" /><span>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jsulthoni/" target="blank">Javier Sulthoni</a>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsulthoni" height="20" width="30" /><span>&nbsp;<a href="https://www.instagram.com/jsulthoni/" target="blank">jsulthoni</a></span>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiersulthoni" height="20" width="20" /><span>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jsulthoni/" target="_blank">Javier Sulthoni</a>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsulthoni" height="20" width="30" /><span>&nbsp;<a href="https://www.instagram.com/jsulthoni/" target="_blank">jsulthoni</a></span>
 </p>
