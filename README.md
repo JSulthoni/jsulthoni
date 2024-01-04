@@ -6,7 +6,7 @@
 - 📄 Know about my experiences: [resume](https://github.com/JSulthoni/jsulthoni.github.io/blob/main/src/assets/Resume_Javier-Nauvel-Sulthoni.pdf)
 - 📫 You can reach me at: [sulthonijavier@gmail.com](mailto:sulthonijavier@gmail.com)
 - 🌏 I enjoy learning the internet.
-- 🚀 Motto: Your branch is up to date with 'origin/main'.
+- 🚀 Motto: `found 0 vulnerabilities`
 
 
 <h3 align="left">My Stacks:</h3>
